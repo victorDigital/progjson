@@ -1,0 +1,23 @@
+{
+	"fornavn": "Emma",
+	"efternavn": "Pedersen",
+	"alder": 22,
+	"erStudent": true,
+	"fag": ["Kemi", "Biologi", "Matematik"],
+	"adresse": {
+		"gade": "Hovedgade 15",
+		"by": "Aarhus",
+		"postnummer": 8000
+	},
+	"telefonnumre": [
+		{
+			"type": "hjem",
+			"nummer": "23456789"
+		},
+		{
+			"type": "mobil",
+			"nummer": "98765432"
+		}
+	],
+	"studentID": "S67890"
+}
